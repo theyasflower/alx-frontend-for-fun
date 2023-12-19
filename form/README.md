@@ -55,7 +55,3 @@ Read or watch:
 
 ### [6. add the search form](./07-article.html)
 
----
-
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
