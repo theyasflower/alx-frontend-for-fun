@@ -56,8 +56,3 @@ Read or watch:
 ### [10. Document must have one main landmark](./fix-a11y/09-index.html)
 
 ### [11. More than 2 elements become list](./fix-a11y/10-index.html)
-
----
-
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha) - [twitter:speech_balloon:](https://twitter.com/Joseph_Mahiuha)
