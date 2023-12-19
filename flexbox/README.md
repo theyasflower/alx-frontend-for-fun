@@ -61,8 +61,3 @@ Read or watch:
 ### [15. Finalizing the cherry on the cake that is the article](./100-article.html)
 
 ### [16. Timemachine boxes!](./101-style.css)
-
----
-
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
